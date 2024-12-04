@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/38e37f75-7b75-426e-9653-32dc3cd17fbd)# Data Science Enthusiast <br>
+# Data Science Enthusiast <br>
 
 **Software:** Python, R, SQL, Tableau, GitHub, Power BI <br>
 **Statistical Concepts:** Machine Learning, Time Series, Regression Analysis, Survival Analysis, Data Visualization<br>
