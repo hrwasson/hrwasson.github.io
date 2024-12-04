@@ -1,11 +1,9 @@
 # Data Science Enthusiast <br>
 
-**Skilled in the following areas:** <br>
-
 **Software:** Python, R, SQL, Tableau, GitHub, Power BI <br>
 **Statistical Concepts:** Machine Learning, Time Series, Regression Analysis, Survival Analysis, Data Visualization<br>
 
-**Contact Me:**<br>
+## Contact Me: <br>
 
 **Phone Number:** 484-714-5477<br>
 **Email:** hrwasson@ncsu.edu<br>
