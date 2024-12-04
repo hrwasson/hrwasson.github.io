@@ -81,12 +81,16 @@ Gettysburg, PA - January 2023<br>
 - Analyzed and discussed brand marketing strategies and business metrics with representatives from Coca-Cola,
 Disney, Universal, SeaWorld, Loews Hotels & Resorts, and LEGOLAND.<br>
 
+
 **Fellow**<br>
 Eisenhower Institute Washington Summer Fellowship <br>
 Washington, D.C. - June 2022—August 2022<br>
 
 - Gained insights into decision-making in Washington, D.C. through 10 seminars and 5 field trips, contributing to policy discussions.<br>
 - Engaged with experts on policy issues like the economy, environment, defense, and national security.<br>
+
+**Read more about my experience interning at Baltimore Washington Financial Advisiors and participating in the Eisenhower Institute Washington Summer Fellowship here:**
+https://www.gettysburg.edu/news/stories?id=7f4d7c73-54d3-4ec1-8978-f9216e0d2b0a&utm_source=linkedin&utm_medium=social-posts&utm_campaign=reach-student-summer-internships-w
 
 ## Awards:<br>
 
