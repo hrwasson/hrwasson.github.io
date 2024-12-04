@@ -2,18 +2,19 @@
 
 **Skilled in the following areas:**
 
-**Software:** Python, R, SQL, Tableau, GitHub, Power BI\n
-**Statistical Concepts:** Machine Learning, Time Series, Regression Analysis, Survival Analysis, Data Visualization
+**Software:** Python, R, SQL, Tableau, GitHub, Power BI< br / >
+**Statistical Concepts:** Machine Learning, Time Series, Regression Analysis, Survival Analysis, Data Visualization< br / >
 
-**Contact Me:**
+**Contact Me:**< br / >
 
-**Phone Number:** 484-714-5477
-**Email:** hrwasson@ncsu.edu
-**Connect with me on LinkedIn:** [https://www.linkedin.com/in/hannah-wasson/](https://www.linkedin.com/in/hannah-wasson/)
+**Phone Number:** 484-714-5477< br / >
+**Email:** hrwasson@ncsu.edu< br / >
+**Connect with me on LinkedIn:** [https://www.linkedin.com/in/hannah-wasson/](https://www.linkedin.com/in/hannah-wasson/)< br / >
 
-## Education
-M.S. Analytics | Institute for Advanced Analytics, NC State University (_May 2025_)
-B.A. Economics, Minor in Data Science | Gettysburg College (_May 2023_)
+## Education< br / >
+
+M.S. Analytics | Institute for Advanced Analytics, NC State University (_May 2025_)< br / >
+B.A. Economics, Minor in Data Science | Gettysburg College (_May 2023_)< br / >
 
 ## Projects:
 
