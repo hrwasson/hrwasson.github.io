@@ -1,4 +1,4 @@
-# Data Science Enthusiast <br>
+![image](https://github.com/user-attachments/assets/38e37f75-7b75-426e-9653-32dc3cd17fbd)# Data Science Enthusiast <br>
 
 **Software:** Python, R, SQL, Tableau, GitHub, Power BI <br>
 **Statistical Concepts:** Machine Learning, Time Series, Regression Analysis, Survival Analysis, Data Visualization<br>
@@ -71,7 +71,14 @@ and provided recommendations for designing energy sector financing strategies to
 - Enhanced data cleaning and time series analysis capabilities by processing and analyzing large datasets in Stata
 and Excel, gaining deeper insights into trends and patterns in the renewable energy sector for strategic planning.<br>
 
-## Additional Experience: <br>
+## Additional Experience: <be>
+
+**Swim Coach (Part-Time)**
+Norman Swimming <br>
+Arlington, VA - September 2023-May 2024
+
+- Coached group swim instruction for children ages 5-8 providing personalized technique improvement in the four competitive strokes (freestyle, butterfly, breaststroke, and backstroke), racing starts and turns, and sprint training.
+- Enhanced individual swimmer's abilities and encouraged their love of the sport. 
 
 **Brand and Marketing Strategy Orlando Trek**<br>
 Gettysburg College, Career Services <br>
@@ -79,8 +86,10 @@ Gettysburg, PA - January 2023<br>
 
 - Prepared and delivered an executive summary featuring key metrics and weekly insights during a student leadership roundtable, presented to SeaWorld representatives.<br>
 - Analyzed and discussed brand marketing strategies and business metrics with representatives from Coca-Cola,
-Disney, Universal, SeaWorld, Loews Hotels & Resorts, and LEGOLAND.<br>
+Disney, Universal, SeaWorld, Loews Hotels & Resorts, and LEGOLAND.<be>
 
+![https://github.com/hrwasson/hrwasson.github.io/blob/main/Marketing%20Trip.jpg](https://github.com/hrwasson/hrwasson.github.io/blob/main/Marketing%20Trip.jpg)
+![https://github.com/hrwasson/hrwasson.github.io/blob/main/marketing%20trip2.jpg](https://github.com/hrwasson/hrwasson.github.io/blob/main/marketing%20trip2.jpg)
 
 **Fellow**<br>
 Eisenhower Institute Washington Summer Fellowship <br>
@@ -89,7 +98,8 @@ Washington, D.C. - June 2022—August 2022<br>
 - Gained insights into decision-making in Washington, D.C. through 10 seminars and 5 field trips, contributing to policy discussions.<br>
 - Engaged with experts on policy issues like the economy, environment, defense, and national security.<br>
 
-**Read more about my experience interning at Baltimore Washington Financial Advisiors and participating in the Eisenhower Institute Washington Summer Fellowship here:**
+**Read more about my experience interning at Baltimore Washington Financial Advisiors and participating in the Eisenhower Institute Washington Summer Fellowship here:**<br>
+
 https://www.gettysburg.edu/news/stories?id=7f4d7c73-54d3-4ec1-8978-f9216e0d2b0a&utm_source=linkedin&utm_medium=social-posts&utm_campaign=reach-student-summer-internships-w
 
 ## Awards:<br>
@@ -97,5 +107,6 @@ https://www.gettysburg.edu/news/stories?id=7f4d7c73-54d3-4ec1-8978-f9216e0d2b0a&
 **NCAA Division III Swimming Academic All-American**<br>
 Issued by National Collegiate Athletic Association (NCAA)<br>
 March 2020<br>
+
 [https://gettysburgsports.com/news/2020/4/8/womens-swimming-four-bullets-earn-all-america-recognition.aspx](https://gettysburgsports.com/news/2020/4/8/womens-swimming-four-bullets-earn-all-america-recognition.aspx)
 
