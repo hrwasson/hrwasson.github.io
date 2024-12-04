@@ -2,7 +2,7 @@
 
 **Skilled in the following areas:**
 
-**Software:** Python, R, SQL, Tableau, GitHub, Power BI
+**Software:** Python, R, SQL, Tableau, GitHub, Power BI\n
 **Statistical Concepts:** Machine Learning, Time Series, Regression Analysis, Survival Analysis, Data Visualization
 
 **Contact Me:**
