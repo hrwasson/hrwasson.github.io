@@ -1,5 +1,7 @@
 # Data Science Enthusiast <br>
 
+> After working as a business analyst, I am now transitioning into an aspiring data scientist. I’m currently fine-tuning my Python, SQL, R, statistical analysis, data visualization, and data modeling skills as I pursue my Master of Science in Analytics at the Institute for Advanced Analytics at NC State University. <br>
+
 **Software:** Python, R, SQL, Tableau, GitHub, Power BI <br>
 **Statistical Concepts:** Machine Learning, Time Series, Regression Analysis, Survival Analysis, Data Visualization<br>
 
