@@ -40,7 +40,7 @@ identifying improvement areas, and making data-driven decisions for game strateg
 **Link to Tableau Dashboard**<br>
 [https://public.tableau.com/app/profile/hannah.wasson5919/viz/MSA25DataVisualization/HOME)](https://public.tableau.com/app/profile/hannah.wasson5919/viz/MSA25DataVisualization/HOME)<br>
 
-![Tennis Dashboard.jpg](https://github.com/hrwasson/hrwasson.github.io/blob/main/Tennis%20Dashboard.jpg)<br>
+![Tableau Dashboard](hrwasson.github.io/Tennis Dashboard.jpg)
 
 ## Professional Experience: <br>
 
@@ -99,7 +99,8 @@ Gettysburg, PA - January 2023<br>
 - Analyzed and discussed brand marketing strategies and business metrics with representatives from Coca-Cola,
 Disney, Universal, SeaWorld, Loews Hotels & Resorts, and LEGOLAND.<be>
 
-![https://github.com/hrwasson/hrwasson.github.io/blob/main/Marketing%20Trip.jpg](https://github.com/hrwasson/hrwasson.github.io/blob/main/Marketing%20Trip.jpg)
+![Brand and Marketing Strategy Trip](hrwasson.github.io/Marketing Trip.jpg)
+
 
 **Fellow**<br>
 Eisenhower Institute Washington Summer Fellowship <br>
