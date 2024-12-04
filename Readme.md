@@ -74,9 +74,9 @@ and Excel, gaining deeper insights into trends and patterns in the renewable ene
 
 ## Additional Experience: <be>
 
-**Swim Coach (Part-Time)**
+**Swim Coach (Part-Time)** <br>
 Norman Swimming <br>
-Arlington, VA - September 2023-May 2024
+Arlington, VA - September 2023-May 2024 <br>
 
 - Coached group swim instruction for children ages 5-8 providing personalized technique improvement in the four competitive strokes (freestyle, butterfly, breaststroke, and backstroke), racing starts and turns, and sprint training.
 - Enhanced individual swimmer's abilities and encouraged their love of the sport.
