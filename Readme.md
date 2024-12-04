@@ -92,6 +92,6 @@ Washington, D.C. - June 2022—August 2022<br>
 
 **NCAA Division III Swimming Academic All-American**<br>
 Issued by National Collegiate Athletic Association (NCAA)<br>
-Mar 2020<br>
+March 2020<br>
 [https://gettysburgsports.com/news/2020/4/8/womens-swimming-four-bullets-earn-all-america-recognition.aspx](https://gettysburgsports.com/news/2020/4/8/womens-swimming-four-bullets-earn-all-america-recognition.aspx)
 
