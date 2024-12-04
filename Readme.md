@@ -16,7 +16,7 @@ B.A. Economics, Minor in Data Science | Gettysburg College (_May 2023_)<br>
 
 ## Projects:<br>
 
-**RedHat Practicum Project** <br>
+**Red Hat Practicum Project** <br>
 Scrum Lead<br>
 Raleigh, NC (Remote) - August 2024—Current<br>
 
@@ -64,6 +64,7 @@ Columbia, MD - June 2022—August 2022<br>
 
 **Research Assistant**<br>
 Gettysburg College, Department of Economics<br>
+Campus Part-Time Employment
 Gettysburg, PA - January 2023—May 2023<br>
 
 - Analyzed the relationship between economic growth and uncertainty, identifying that lower growth rates may correlate with higher uncertainty levels, 
@@ -78,8 +79,16 @@ Norman Swimming <br>
 Arlington, VA - September 2023-May 2024
 
 - Coached group swim instruction for children ages 5-8 providing personalized technique improvement in the four competitive strokes (freestyle, butterfly, breaststroke, and backstroke), racing starts and turns, and sprint training.
-- Enhanced individual swimmer's abilities and encouraged their love of the sport. 
+- Enhanced individual swimmer's abilities and encouraged their love of the sport.
 
+**Office Assistant**<br>
+Gettysburg College, Department of Economics<br>
+Campus Part-Time Employment <br>
+Gettysburg, PA - January 2023—May 2023<br>
+
+- Supported the Academic Administrative Assistant with student programming tasks using Excel for majors and minors.
+- Assisted with event planning and social media pages. 
+  
 **Brand and Marketing Strategy Orlando Trek**<br>
 Gettysburg College, Career Services <br>
 Gettysburg, PA - January 2023<br>
