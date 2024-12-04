@@ -32,7 +32,7 @@ calable, production-ready solution.<br>
 closeout requirements, and tracking task complexity to maintain team health and progress as a Scrum Lead.<br>
 
 **NC State Women's Tennis Team Visualization Tableau Dashboard**<br>
-• NCSU women's tennis performance dashboard was created to analyze player stats and team metrics, aiding coaches in tracking performance, 
+- NCSU Women's Tennis performance dashboard was created to analyze player stats and team metrics, aiding coaches in tracking performance, 
 identifying improvement areas, and making data-driven decisions for game strategy.<br>
 
 **Link to Tableau Dashboard**<br>
@@ -46,29 +46,29 @@ identifying improvement areas, and making data-driven decisions for game strateg
 Energix Renewables US<br>
 Arlington, VA - June 2023—June 2024<br>
 
-• Analyzed PJM energy prices and solar generation in R, highlighting day-ahead vs. real-time pricing differences for strategic planning insights.<br>
-• Attended an in-person PJM course on market operations, settlements, and capacity planning.<br>
-• Tracked construction pipeline in Power BI, identifying critical path deviations and initiating timeline discussions.<br>
-• Streamlined schedules for 5 utility-scale solar projects, fostering relationships with consultants and stakeholders.<br>
-• Developed a tool for solar project managers to efficiently report weekly construction progress to executives.<br>
-• Built a tax calculation tool that decreased processing time by over 90% (from 60+ minutes to 5 minutes), enabling faster 
+- Analyzed PJM energy prices and solar generation in R, highlighting day-ahead vs. real-time pricing differences for strategic planning insights.<br>
+- Attended an in-person PJM course on market operations, settlements, and capacity planning.<br>
+- Tracked construction pipeline in Power BI, identifying critical path deviations and initiating timeline discussions.<br>
+- Streamlined schedules for 5 utility-scale solar projects, fostering relationships with consultants and stakeholders.<br>
+- Developed a tool for solar project managers to efficiently report weekly construction progress to executives.<br>
+- Built a tax calculation tool that decreased processing time by over 90% (from 60+ minutes to 5 minutes), enabling faster 
 financial analysis and compliance.<br>
 
 **Intern** <br>
 Baltimore Washington Financial Advisors<br>
 Columbia, MD - June 2022—August 2022<br>
 
-• Conducted a comparative analysis of recessions from 1940 to 2022, evaluating recovery rates and economic trends.<br>
-• Applied data-driven strategies to manage an investment portfolio for 3 months, integrating market research insights.<br>
-• Provided data analysis and support to financial analysts and planning teams on 10 major projects.<br>
+- Conducted a comparative analysis of recessions from 1940 to 2022, evaluating recovery rates and economic trends.<br>
+- Applied data-driven strategies to manage an investment portfolio for 3 months, integrating market research insights.<br>
+- Provided data analysis and support to financial analysts and planning teams on 10 major projects.<br>
 
 **Research Assistant**<br>
 Gettysburg College, Department of Economics<br>
 Gettysburg, PA - January 2023—May 2023<br>
 
-• Analyzed the relationship between economic growth and uncertainty, identifying that lower growth rates may correlate with higher uncertainty levels, 
+- Analyzed the relationship between economic growth and uncertainty, identifying that lower growth rates may correlate with higher uncertainty levels, 
 and provided recommendations for designing energy sector financing strategies to mitigate the impact of such uncertainty (out for publication).<br>
-• Enhanced data cleaning and time series analysis capabilities by processing and analyzing large datasets in Stata
+- Enhanced data cleaning and time series analysis capabilities by processing and analyzing large datasets in Stata
 and Excel, gaining deeper insights into trends and patterns in the renewable energy sector for strategic planning.<br>
 
 ## Additional Experience: <br>
@@ -77,16 +77,16 @@ and Excel, gaining deeper insights into trends and patterns in the renewable ene
 Gettysburg College, Career Services <br>
 Gettysburg, PA - January 2023<br>
 
-• Prepared and delivered an executive summary featuring key metrics and weekly insights during a student leadership roundtable, presented to SeaWorld representatives.<br>
-• Analyzed and discussed brand marketing strategies and business metrics with representatives from Coca-Cola,
+- Prepared and delivered an executive summary featuring key metrics and weekly insights during a student leadership roundtable, presented to SeaWorld representatives.<br>
+- Analyzed and discussed brand marketing strategies and business metrics with representatives from Coca-Cola,
 Disney, Universal, SeaWorld, Loews Hotels & Resorts, and LEGOLAND.<br>
 
 **Fellow**<br>
 Eisenhower Institute Washington Summer Fellowship <br>
 Washington, D.C. - June 2022—August 2022<br>
 
-• Gained insights into decision-making in Washington, D.C. through 10 seminars and 5 field trips, contributing to policy discussions.<br>
-• Engaged with experts on policy issues like the economy, environment, defense, and national security.<br>
+- Gained insights into decision-making in Washington, D.C. through 10 seminars and 5 field trips, contributing to policy discussions.<br>
+- Engaged with experts on policy issues like the economy, environment, defense, and national security.<br>
 
 ## Awards:<br>
 
