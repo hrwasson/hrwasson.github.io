@@ -99,7 +99,7 @@ Gettysburg, PA - January 2023<br>
 - Analyzed and discussed brand marketing strategies and business metrics with representatives from Coca-Cola,
 Disney, Universal, SeaWorld, Loews Hotels & Resorts, and LEGOLAND.<be>
 
-![Brand and Marketing Strategy Trip](marketing.jpg)
+[https://github.com/hrwasson/hrwasson.github.io/blob/main/marketing.jpg](https://github.com/hrwasson/hrwasson.github.io/blob/main/marketing.jpg)
 
 
 **Fellow**<br>
