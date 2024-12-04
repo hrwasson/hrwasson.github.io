@@ -11,16 +11,16 @@
 **Email:** hrwasson@ncsu.edu<br>
 **Connect with me on LinkedIn:** [https://www.linkedin.com/in/hannah-wasson/](https://www.linkedin.com/in/hannah-wasson/)<br>
 
-## Education< br / >
+## Education <br>
 
 M.S. Analytics | Institute for Advanced Analytics, NC State University (_May 2025_)<br>
 B.A. Economics, Minor in Data Science | Gettysburg College (_May 2023_)<br>
 
-## Projects:
+## Projects:<br>
 
-**RedHat Practicum Project** 
-Scrum Lead
-Raleigh, NC (Remote) - August 2024—Current
+**RedHat Practicum Project** <br>
+Scrum Lead<br>
+Raleigh, NC (Remote) - August 2024—Current<br>
 
 • Develop a suite of over 1000+ hierarchical time series forecasts for the procurement organization, forecasting future
 spending and volume of requests using Python and machine learning to help identify inefficiencies and support
