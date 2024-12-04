@@ -89,7 +89,6 @@ Gettysburg, PA - January 2023<br>
 Disney, Universal, SeaWorld, Loews Hotels & Resorts, and LEGOLAND.<be>
 
 ![https://github.com/hrwasson/hrwasson.github.io/blob/main/Marketing%20Trip.jpg](https://github.com/hrwasson/hrwasson.github.io/blob/main/Marketing%20Trip.jpg)
-![https://github.com/hrwasson/hrwasson.github.io/blob/main/marketing%20trip2.jpg](https://github.com/hrwasson/hrwasson.github.io/blob/main/marketing%20trip2.jpg)
 
 **Fellow**<br>
 Eisenhower Institute Washington Summer Fellowship <br>
