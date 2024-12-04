@@ -40,8 +40,6 @@ identifying improvement areas, and making data-driven decisions for game strateg
 **Link to Tableau Dashboard**<br>
 [https://public.tableau.com/app/profile/hannah.wasson5919/viz/MSA25DataVisualization/HOME)](https://public.tableau.com/app/profile/hannah.wasson5919/viz/MSA25DataVisualization/HOME)<br>
 
-![Tableau Dashboard](https://github.com/hrwasson/hrwasson.github.io/blob/main/dashboard.jpg))
-
 ## Professional Experience: <br>
 
 **Business Analyst | Project Development Analyst**<br>
@@ -98,9 +96,6 @@ Gettysburg, PA - January 2023<br>
 - Prepared and delivered an executive summary featuring key metrics and weekly insights during a student leadership roundtable, presented to SeaWorld representatives.<br>
 - Analyzed and discussed brand marketing strategies and business metrics with representatives from Coca-Cola,
 Disney, Universal, SeaWorld, Loews Hotels & Resorts, and LEGOLAND.<be>
-
-![https://github.com/hrwasson/hrwasson.github.io/blob/main/marketing.jpg](https://github.com/hrwasson/hrwasson.github.io/blob/main/marketing.jpg)
-
 
 **Fellow**<br>
 Eisenhower Institute Washington Summer Fellowship <br>
