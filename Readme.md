@@ -81,17 +81,17 @@ Gettysburg, PA - January 2023<br>
 • Analyzed and discussed brand marketing strategies and business metrics with representatives from Coca-Cola,
 Disney, Universal, SeaWorld, Loews Hotels & Resorts, and LEGOLAND.<br>
 
-**Fellow**
-Eisenhower Institute Washington Summer Fellowship 
-Washington, D.C. - June 2022—August 2022
+**Fellow**<br>
+Eisenhower Institute Washington Summer Fellowship <br>
+Washington, D.C. - June 2022—August 2022<br>
 
 • Gained insights into decision-making in Washington, D.C. through 10 seminars and 5 field trips, contributing to policy discussions.<br>
 • Engaged with experts on policy issues like the economy, environment, defense, and national security.<br>
 
 ## Awards:<br>
 
-**NCAA Division III Swimming Academic All-American**
-Issued by National Collegiate Athletic Association (NCAA)
-Mar 2020
+**NCAA Division III Swimming Academic All-American**<br>
+Issued by National Collegiate Athletic Association (NCAA)<br>
+Mar 2020<br>
 [https://gettysburgsports.com/news/2020/4/8/womens-swimming-four-bullets-earn-all-america-recognition.aspx](https://gettysburgsports.com/news/2020/4/8/womens-swimming-four-bullets-earn-all-america-recognition.aspx)
 
