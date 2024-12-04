@@ -38,7 +38,7 @@ identifying improvement areas, and making data-driven decisions for game strateg
 **Link to Tableau Dashboard**<br>
 [https://public.tableau.com/app/profile/hannah.wasson5919/viz/MSA25DataVisualization/HOME)](https://public.tableau.com/app/profile/hannah.wasson5919/viz/MSA25DataVisualization/HOME)<br>
 
-![Tennis Dashboard.jpg](https://github.com/hrwasson/hrwasson.github.io/blob/main/Tennis%20Dashboard.jpg))<br>
+![Tennis Dashboard.jpg](https://github.com/hrwasson/hrwasson.github.io/blob/main/Tennis%20Dashboard.jpg)<br>
 
 ## Professional Experience: <br>
 
