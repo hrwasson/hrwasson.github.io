@@ -20,15 +20,15 @@ B.A. Economics, Minor in Data Science | Gettysburg College (_May 2023_)<br>
 Scrum Lead<br>
 Raleigh, NC (Remote) - August 2024—Current<br>
 
-• Develop a suite of over 1000+ hierarchical time series forecasts for the procurement organization, forecasting future
+- Develop a suite of over 1000+ hierarchical time series forecasts for the procurement organization, forecasting future
 spending and volume of requests using Python and machine learning to help identify inefficiencies and support
 strategic planning.<br>
-• Build an interactive visualization dashboard using Tableau for stakeholders as a self-service tool for exploring the
+- Build an interactive visualization dashboard using Tableau for stakeholders as a self-service tool for exploring the
 time series forecasts and prescriptively highlight key forecasts to support current operational business needs (as well
 as incorporate what-if scenario planning capability to support long-term strategic business planning).<br>
-• Apply MLOps best practices, including version control, code modularity, and automated testing, to transform a data science project into a s
+- Apply MLOps best practices, including version control, code modularity, and automated testing, to transform a data science project into a s
 calable, production-ready solution.<br>
-• Manage project backlogs in GitLab, ensuring accountability for each subtask, setting due dates, defining clear
+- Manage project backlogs in GitLab, ensuring accountability for each subtask, setting due dates, defining clear
 closeout requirements, and tracking task complexity to maintain team health and progress as a Scrum Lead.<br>
 
 **NC State Women's Tennis Team Visualization Tableau Dashboard**<br>
