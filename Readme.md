@@ -2,7 +2,7 @@
 
 > After working as a business analyst, I am now transitioning into an aspiring data scientist. I’m currently fine-tuning my Python, SQL, R, statistical analysis, data visualization, and data modeling skills as I pursue my Master of Science in Analytics at the Institute for Advanced Analytics at NC State University. <br>
 
-**Software:** Python, R, SQL, Tableau, GitHub, Power BI <br>
+**Software:** Python, R, SQL, Streamlit, Tableau, GitHub, Power BI <br>
 **Statistical Concepts:** Machine Learning, Time Series, Regression Analysis, Survival Analysis, Data Visualization<br>
 
 ## Contact Me: <br>
@@ -120,7 +120,7 @@ Washington, D.C. - June 2022—August 2022<br>
 
 **Read more about my experience interning at Baltimore Washington Financial Advisiors and participating in the Eisenhower Institute Washington Summer Fellowship here:**<br>
 
-https://www.gettysburg.edu/news/stories?id=7f4d7c73-54d3-4ec1-8978-f9216e0d2b0a&utm_source=linkedin&utm_medium=social-posts&utm_campaign=reach-student-summer-internships-w
+[https://www.gettysburg.edu/news/stories?id=7f4d7c73-54d3-4ec1-8978-f9216e0d2b0a&utm_source=linkedin&utm_medium=social-posts&utm_campaign=reach-student-summer-internships-w](https://www.gettysburg.edu/news/stories?id=7f4d7c73-54d3-4ec1-8978-f9216e0d2b0a&utm_source=linkedin&utm_medium=social-posts&utm_campaign=reach-student-summer-internships-w)
 
 ## Awards:<br>
 
