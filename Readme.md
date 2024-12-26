@@ -24,7 +24,9 @@ June 2024-Current
 
 I'm building a reviews app on **Streamlit** to track and share my personal recommendations for places I've visited, particularly focusing on the best coffee shops to study at in the Triangle. The app integrates a recommendation engine that combines my detailed reviews, covering visit information, location details, amenities, and ratings, with reviews from the public. This project not only helps me share insights with friends and family, but also lets me refine my data science skills and continue exploring new places.<br>
 
-**View my App here:**
+**View my App here:** [https://eatsandadventurestracker.streamlit.app/](https://eatsandadventurestracker.streamlit.app/)
+
+![Eats & Adventures Tracker](reviews_project.png)
 
 **Red Hat Practicum Project** <br>
 Scrum Lead<br>
