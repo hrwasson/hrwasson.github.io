@@ -2,5 +2,5 @@ title: Hannah Wasson
 logo: hannah.jpg
 description: M.S. Analytics 2025 Graduate
 show_downloads: yes
-background-color = black
+background-color : black
 theme: jekyll-theme-minimal
